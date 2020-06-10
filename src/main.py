@@ -4,7 +4,8 @@
 
 # A Python 3 script that does a few simple operations
 
-#this is an edit by rafaella
+# this is an edit by rafaella
+# this is another edit from Jérémy
 from quadratic import quadratic
 
 def main() -> None:
