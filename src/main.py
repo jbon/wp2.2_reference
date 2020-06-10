@@ -6,6 +6,7 @@
 
 # this is an edit by rafaella
 # this is another edit from Jérémy
+# Again another edit from Jérémy. Seems like Jérémy did a lot today. Thumbs up!
 from quadratic import quadratic
 
 def main() -> None:
